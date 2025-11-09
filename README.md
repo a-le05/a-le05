@@ -35,4 +35,5 @@ Soy una persona **responsable**, con muchas ganas de seguir aprendiendo y crecie
 | Projects | Description | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-----------:|:-------------:|:----------:|:-------------------|
 | **Tieda_libro** | Ecommerce | - | [view]() | `Java` `PostgreSQL` `Vue.js` `Spring Boot` |
+| **Pygame**      | Batalla tanque| - | [view](https://github.com/a-le05/Pygame) |`Pygame`|
 </div>
