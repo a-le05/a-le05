@@ -34,6 +34,6 @@ Soy una persona **responsable**, con muchas ganas de seguir aprendiendo y crecie
 # Projects 🛠 
 | Projects | Description | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-----------:|:-------------:|:----------:|:-------------------|
-| **Tieda_libro** | Ecommerce | [Link](https://tienda-libro-frontend.onrender.com/) | [view](https://github.com/a-le05/ecomerce-tienda-libro) | `Java` `PostgreSQL` `Vue.js` `Spring Boot` |
+| **Tieda_libro** | Ecommerce | [Link](https://tienda-libro-frontend.onrender.com/) | [view](https://github.com/a-le05/ecomerce-tienda-libro) | `Java` `PostgreSQL` `Vue.js` <br> `Spring Boot` `MercadoPago`|
 | **Pygame**      | Batalla tanque| - | [view](https://github.com/a-le05/Pygame) |`Pygame`|
 </div>
